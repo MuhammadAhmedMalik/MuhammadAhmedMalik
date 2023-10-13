@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmedmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmedmalik" /> </p>
 
-- 🔭 I’m currently working on **3D game**
+- 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Game & Web Development**
 
-- 💬 Ask me about **React, HTML, CSS, Tailwind CSS, JavaScript, JSX, Bootstrap, and NodeJS.**
+- 💬 Ask me about **Unity, C#, React, HTML, CSS, Tailwind CSS, JavaScript, JSX, Bootstrap, and NodeJS**
 
 - 📫 How to reach me **mohd.ahmed.email7@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
